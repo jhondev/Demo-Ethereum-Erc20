@@ -1,0 +1,5 @@
+# Demo-Ethereum-Erc20
+
+ERC20 Demo based on this post
+
+https://hashnode.com/post/how-to-build-your-own-ethereum-based-erc20-token-and-launch-an-ico-in-next-20-minutes-cjbcpwzec01c93awtbij90uzn
